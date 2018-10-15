@@ -1,3 +1,8 @@
+# 基于 [Element UI 中国省市区级联数据](https://github.com/Plortinus/element-china-area-data)
+只是修改了北京、上海、重庆和天津的数据。
+如一级北京市修改为北京，二级市辖区修改为北京市，符合淘宝的收货地址。
+
+
 # Element UI 中国省市区级联数据
 
 [![npm](https://img.shields.io/npm/v/element-china-area-data.svg)](https://www.npmjs.com/package/element-china-area-data) [![npm](https://img.shields.io/npm/dt/element-china-area-data.svg)](https://www.npmjs.com/package/element-china-area-data)
